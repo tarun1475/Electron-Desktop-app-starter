@@ -25,6 +25,9 @@ git clone https://github.com/electron/electron-quick-start
 cd electron-quick-start
 # Install dependencies
 npm install
+
+#install (On Ubuntu)
+apt-get install libgconf-2-4
 # Run the app
 npm start
 ```
